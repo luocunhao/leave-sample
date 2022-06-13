@@ -1,6 +1,6 @@
 # leave-sample
 一、说明
-
+infoQ地址：https://www.infoq.cn/article/s_LFUlU6ZQODd030RbH9
 本代码源于极客时间《DDD实战课》，DDD知识体系和代码详解可参考专栏。
 
 在《DDD实战课》专栏第18节中我们用事件风暴完成了“在线请假考勤”项目的领域建模和微服务设计。
